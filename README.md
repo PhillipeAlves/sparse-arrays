@@ -1,6 +1,6 @@
 # Sparse Arrays
 
-## `1` Description
+> > > ## Description
 
 </br>
 
@@ -49,11 +49,11 @@ matchingStrings has the following parameters:
 
 ---
 
-For a full description of this problem, please check [Hackerrank](https://www.hackerrank.com/challenges/sparse-arrays/problem).
+For a full description of this problem please check [Hackerrank](https://www.hackerrank.com/challenges/sparse-arrays/problem).
 
 ---
 
-## `2` Solution
+> > > ## Solution
 
 </br>
 
